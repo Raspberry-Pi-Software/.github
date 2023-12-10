@@ -29,6 +29,6 @@ Install packages after install using this command:
 ```bash
 rpisft install <package>
 ```
-<package> would be the GitHub repository name.
+\<package\> would be the GitHub repository name.
 
 To install or uninstall the package tool, to install and remove packages you will need to have an internet connection on your Pi.
